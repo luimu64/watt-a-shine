@@ -1,2 +1,3 @@
 *.o
 watt_a_shine
+*.code-workspace
